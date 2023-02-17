@@ -109,7 +109,6 @@ public class Main {
         System.out.println(middleTime);
 
     }
-
     public static void task8 () {
         System.out.println("Задача8");
         int Masha = 67760;
