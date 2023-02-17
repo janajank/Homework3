@@ -125,7 +125,5 @@ public class Main {
         System.out.println("Денис теперь получает "+newSalaryD+" рублей.Годовой доход вырос на "+yearAdditionD+" рублей.");
         System.out.println("Кристина теперь получает "+newSalaryK+" рублей.Годовой доход вырос на "+yearAdditionK+" рублей.");
 
-
-
     }
 }
